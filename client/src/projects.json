@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+          "name": "Portfolio Website",
+          "screenshot": "/images/PP-ss.PNG",
+          "url": "https://github.com/alexjoeldelgado/professional-portfolio",
+          "dscr": "This portfolio website was made using Handlebars and Node.js!"
+        },{
+          "name": "Portfolio Website",
+          "screenshot": "/images/PP-ss.PNG",
+          "url": "https://github.com/alexjoeldelgado/professional-portfolio",
+          "dscr": "This portfolio website was made using Handlebars and Node.js!"
+        },{
+          "name": "VEG-HEAD",
+          "screenshot": "/images/VH-ss.jpg",
+          "url": "https://alexjoeldelgado.github.io/veg-head/",
+          "dscr": "A web application designed for Vegetarians to search for local vegetarian-friendly restaurants and vegetarian recipes. Technologies Used: API and AJAX"
+        },{
+          "name": "Workout Tracker",
+          "screenshot": "/images/WT-ss.PNG",
+          "url": "https://intense-taiga-75007.herokuapp.com/",
+          "dscr": "This application will allow a consumer to reach their fitness goals by tracking their workout progress. Technologies Used: PWA, Express"
+        },{
+          "name": "Aloha",
+          "screenshot": "/images/AIM-ss.PNG",
+          "url": "https://hidden-sea-12674.herokuapp.com/",
+          "dscr": "A web application designed for real-time instant messaging. Not Functional at the Moment. Technologies Used: Sockets.IO and MySQL"
+        },{
+          "name": "Employee Tracker",
+          "screenshot": "/images/ET-ss.PNG",
+          "url": "https://github.com/alexjoeldelgado/EmployeeTracker",
+          "dscr": "A Node application designed to add, delete, and update employee information for a database. Technologies Used: Node.js"
+        },{
+          "name": "Burger: Practice with Handlebars",
+          "screenshot": "/images/BB-ss.PNG",
+          "url": "https://lit-coast-42478.herokuapp.com/",
+          "dscr": "A web application designed to show expertise using node express handlebars. Technologies Used: Express Handlebars"
+        },{
+          "name": "Note Taker",
+          "screenshot": "/images/NT-ss.PNG",
+          "url": "https://infinite-shore-79977.herokuapp.com/",
+          "dscr": "A web application designed to create, save, and delete notes. Technologies Used: Local Storage"
+        },{
+          "name": "Weather Dashboard",
+          "screenshot": "/images/WD-ss.PNG",
+          "url": "https://alexjoeldelgado.github.io/WeatherDashboard/",
+          "dscr": "A web application designed to display current and future weather conditions for any given city. Technologies Used: Dynamic HTML"
+        },{
+          "name": "Work Day Planner",
+          "screenshot": "/images/WDP-ss.PNG",
+          "url": "https://alexjoeldelgado.github.io/WorkDayPlanner/",
+          "dscr": "A web application designed to store a Daily To-Do list and show past, present, and future events. Technologies Used: Local Storage"
+        },{
+          "name": "Multiple Choice Quiz",
+          "screenshot": "/images/CQ-ss.PNG",
+          "url": "https://alexjoeldelgado.github.io/CodeQuiz/",
+          "dscr": "A dynamically created Multiple Choice Quiz with a Timer and Scoreboard. Technologies Used: Dynamic HTML"
+        },{
+          "name": "Password Generator",
+          "screenshot": "/images/PG-ss.PNG",
+          "url": "https://alexjoeldelgado.github.io/PasswordGenerator/",
+          "dscr": "A web application designed to generate a password with set parameters. Technologies Used: Node.js"
+        }]
+}
