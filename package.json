@@ -4,7 +4,7 @@
   "description": "Professional Portfolio created using React",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js && npm run client",
+    "start": "concurrently \"npm run server\" \"npm run client\"",
     "server": "nodemon server.js",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "client": "cd client && npm start"

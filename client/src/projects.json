@@ -1,10 +1,10 @@
 {
     "projects": [
         {
-          "name": "Portfolio Website",
+          "name": "React Website",
           "screenshot": "/images/PP-ss.PNG",
-          "url": "https://github.com/alexjoeldelgado/professional-portfolio",
-          "dscr": "This portfolio website was made using Handlebars and Node.js!"
+          "url": "https://github.com/alexjoeldelgado/react-portfolio",
+          "dscr": "This portfolio website was made using React.js!"
         },{
           "name": "Portfolio Website",
           "screenshot": "/images/PP-ss.PNG",
