@@ -1,6 +1,11 @@
 {
     "projects": [
         {
+          "name": "Starfinder Starter",
+          "screenshot": "/images/SS-ss.PNG",
+          "url": "https://starfinder-starter.herokuapp.com/",
+          "dscr": "This application serves as a playalong app for the Starfinder Table Top Board Game. Technologies Used: React, Mongoose, Express, and Node.js!"
+        },{
           "name": "React Website",
           "screenshot": "/images/PP-ss.PNG",
           "url": "https://github.com/alexjoeldelgado/react-portfolio",
