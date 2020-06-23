@@ -25,10 +25,13 @@ class Projects extends Component {
                                         {project.name}
                                         <i className='material-icons right'>close</i>
                                     </div>
-                                    <h6>Description:</h6>
+                                    <h6 className="black-text">Description: </h6>
                                     <p>{project.dscr}</p>
-                                    <a href={project.url} target='_blank' rel="noopener noreferrer">Link to Project</a>
+                                    <h6 className="black-text">Technologies Used: </h6>
+                                    <p>{project.tech}</p>
+                                    <a href={project.urlD} target='_blank' rel="noopener noreferrer">Deployed Project</a>
                                     <br/>
+                                    <a href={project.urlG} target='_blank' rel="noopener noreferrer">Github</a>
                             </div>
                         </div>
                     )

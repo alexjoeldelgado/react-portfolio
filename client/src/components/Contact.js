@@ -47,7 +47,19 @@ class Contact extends Component {
                                 </div>
                                 <hr/>
                                 <br/>
-                                <div className="input-field vov fade-in-up t-2">
+                                <br/>
+                                <h5 className="white-text email">
+                                    Email: <a href="mailto:alex@salazarsoftware.com" className="email white-text">alex@salazarsoftware.com</a>
+                                </h5>
+                                <br/>
+                                <h5 className="white-text email">
+                                    LinkedIn: <a className="waves-effect white-text" href="https://www.linkedin.com/in/alexanderdelgado1" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/alexanderdelgado1</a>
+                                </h5>
+                                <br/>
+                                <h5 className="white-text email">
+                                    Github: <a className="waves-effect white-text" href="https://github.com/alexjoeldelgado" target="_blank" rel="noopener noreferrer">https://github.com/alexjoeldelgado</a>
+                                </h5>
+                                {/* <div className="input-field vov fade-in-up t-2">
                                     <input id="name" type="text" className="validate white-text"/>
                                     <label htmlFor="name" className="active white-text">First and Last Name</label>
                                 </div>
@@ -60,7 +72,7 @@ class Contact extends Component {
                                     <label htmlFor="textarea" className="active white-text">Message</label>
                                 </div>
                                 <br/>
-                                <button id="sendBtn" className="btn waves-effect waves-light black-text white vov fade-in-up t-2" type="submit" name="action">Submit<i className="material-icons right">send</i></button>
+                                <button id="sendBtn" className="btn waves-effect waves-light black-text white vov fade-in-up t-2" type="submit" name="action">Submit<i className="material-icons right">send</i></button> */}
                             </div>
                         </div>
                     </div>
