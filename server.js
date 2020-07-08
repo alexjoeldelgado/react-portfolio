@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
+const enforce = require('express-sslify');
 
 const app = express();
 const port = process.env.PORT || 5000;
@@ -9,6 +10,10 @@ const port = process.env.PORT || 5000;
 
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
+
+// Use enforce.HTTPS({ trustProtoHeader: true }) in case you are behind
+// a load balancer (e.g. Heroku). See further comments below
+app.use(enforce.HTTPS({ trustProtoHeader: true }));
 
 // Heroku fix to serve the build react app
 if(process.env.NODE_ENV === 'production'){
