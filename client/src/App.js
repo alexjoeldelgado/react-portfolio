@@ -6,7 +6,7 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route  } from 'react-router-dom';
 
 class App extends Component {
@@ -20,7 +20,7 @@ class App extends Component {
             <Route exact path="/portfolio" component={Portfolio} />
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/resume" component={Resume} />
-            <Footer />
+            {/* <Footer /> */}
         </div>
       </Router>
     )

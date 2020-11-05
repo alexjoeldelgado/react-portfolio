@@ -12,15 +12,15 @@ class Portfolio extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col s12">
-                        <div className="N/A transparent vov fade-in-up t-1">
+                        <div className="N/A transparent">
                             <div className="card-content no-scroll">
-                                <div className="card-title vov fade-in-up t-1">
+                                <div className="card-title">
                                     <h2>Some of my Projects</h2>
                                 </div>
                                 <hr />
                                 <br />
-                                <p className="center-align white-text vov fade-in-up t-2">Swipe left or right</p>
-                                <div id="portfolioContents" className="carousel vov fade-in-up t-2">
+                                <p className="center-align white-text">Swipe left or right</p>
+                                <div id="portfolioContents" className="carousel">
                                     <Projects />
                                 </div>
                             </div>

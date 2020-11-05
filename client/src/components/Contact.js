@@ -40,9 +40,9 @@ class Contact extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col s12">
-                        <div className="N/A transparent vov fade-in-up t-1">
+                        <div className="N/A transparent">
                             <div className="card-content no-scroll">
-                                <div className="card-title vov fade-in-up t-1">
+                                <div className="card-title">
                                     <h2>Send me a message!</h2>
                                 </div>
                                 <hr/>
@@ -59,20 +59,20 @@ class Contact extends Component {
                                 <h5 className="white-text email">
                                     Github: <a className="waves-effect white-text" href="https://github.com/alexjoeldelgado" target="_blank" rel="noopener noreferrer">https://github.com/alexjoeldelgado</a>
                                 </h5>
-                                {/* <div className="input-field vov fade-in-up t-2">
+                                {/* <div className="input-field">
                                     <input id="name" type="text" className="validate white-text"/>
                                     <label htmlFor="name" className="active white-text">First and Last Name</label>
                                 </div>
-                                <div className="input-field vov fade-in-up t-2">
+                                <div className="input-field">
                                     <input id="email" type="email" className="validate white-text"/>
                                     <label htmlFor="email" className="active white-text">Email Address</label>
                                 </div>
-                                <div className="input-field vov fade-in-up t-2">
+                                <div className="input-field">
                                     <textarea id="textarea" type="text" className="materialize-textarea white-text"></textarea>
                                     <label htmlFor="textarea" className="active white-text">Message</label>
                                 </div>
                                 <br/>
-                                <button id="sendBtn" className="btn waves-effect waves-light black-text white vov fade-in-up t-2" type="submit" name="action">Submit<i className="material-icons right">send</i></button> */}
+                                <button id="sendBtn" className="btn waves-effect waves-light black-text white" type="submit" name="action">Submit<i className="material-icons right">send</i></button> */}
                             </div>
                         </div>
                     </div>

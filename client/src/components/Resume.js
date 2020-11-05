@@ -6,9 +6,9 @@ class Resume extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col s12">
-                        <div className="N/A transparent vov fade-in-up t-1">
+                        <div className="N/A transparent">
                             <div className="card-content no-scroll">
-                                <div className="card-title vov fade-in-up t-1">
+                                <div className="card-title">
                                     <h2>Resume</h2>
                                 </div>
                                 <hr/>

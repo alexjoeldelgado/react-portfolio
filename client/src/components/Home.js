@@ -5,7 +5,7 @@ class Home extends Component {
         return (
             <div className="container homePage">
                 <div className="row">
-                    <div className="col s12 vov fade-in-up t-1 center-align">
+                    <div className="col s12 center-align">
                         <h2>
                             <span>H&nbsp;</span>
                             <span className="m-left">e&nbsp;</span>
@@ -14,7 +14,7 @@ class Home extends Component {
                             <span className="m-left">o&nbsp;</span>
                         </h2>
                     </div>
-                    <div className="col s12 vov fade-in-up t-2 center-align">
+                    <div className="col s12 center-align">
                         <h2>
                             <span>M&nbsp;</span>
                             <span className="m-left">y&nbsp;</span>
@@ -34,7 +34,7 @@ class Home extends Component {
                             <span className="m-left name">x&nbsp;</span>
                         </h2>
                     </div>
-                    <div className="col s12 vov fade-in-up t-3 center-align">
+                    <div className="col s12 center-align">
                         <h2>
                             <span>&&nbsp;</span>
                             <span className="m-left">&nbsp;&nbsp;</span>
@@ -62,7 +62,7 @@ class Home extends Component {
                     </div>
                     <br />
                     <br />
-                    <div className="col s12 vov fade-in-up t-4 center-align">
+                    <div className="col s12 center-align">
                         <a className="waves-effect black white-text btn-large" href="/about">Click here to check me out!</a>
                     </div>
                 </div>
