@@ -25,7 +25,7 @@
     "materialize-css": "^1.0.0",
     "mongoose": "^5.7.5",
     "nodemailer": "^6.4.8",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
